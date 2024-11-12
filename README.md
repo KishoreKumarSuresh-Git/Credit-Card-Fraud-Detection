@@ -60,7 +60,6 @@ Monitoring to track model performance over time.
 Data Limitations: The dataset is from 2013; fraud patterns may have evolved. Using more recent data could improve relevance.
 Model Adaptability: The model may not detect new types of fraud without retraining. Adaptive learning could be explored for future improvement.
 
-# Installation and Usage
 # Requirements
 Python 3.x
 Jupyter Notebook
