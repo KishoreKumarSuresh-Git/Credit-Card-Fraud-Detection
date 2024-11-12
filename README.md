@@ -56,10 +56,6 @@ Regular Retraining to adapt to new fraud patterns.
 Threshold Adjustment based on business priorities, either focusing on recall or precision.
 Monitoring to track model performance over time.
 
-# Limitations and Future Work
-Data Limitations: The dataset is from 2013; fraud patterns may have evolved. Using more recent data could improve relevance.
-Model Adaptability: The model may not detect new types of fraud without retraining. Adaptive learning could be explored for future improvement.
-
 # Requirements
 Python 3.x
 Jupyter Notebook
