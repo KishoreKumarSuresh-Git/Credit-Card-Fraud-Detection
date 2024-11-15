@@ -10,7 +10,8 @@ Address class imbalance effectively to minimize false negatives and false positi
 Interpret the model’s decisions to ensure transparency and business relevance.
 Provide actionable insights for deploying the model in real-world fraud detection systems.
 # Dataset
-The dataset contains credit card transactions from European cardholders in September 2013.
+The dataset contains credit card transactions from European cardholders in September 2013. 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Features:
 Time: Seconds elapsed between each transaction and the first transaction.
 Amount: Transaction amount.
